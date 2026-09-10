@@ -1,0 +1,55 @@
+{
+  "turnos": [
+    {
+      "rol": "user",
+      "texto": "hola",
+      "fecha": "2026-09-10T12:47:00"
+    },
+    {
+      "rol": "assistant",
+      "texto": "¡Hola! Estoy Gwen, tu asistente de inteligencia artificial. ¿En qué puedo ayudarte hoy?",
+      "fecha": "2026-09-10T12:47:11"
+    },
+    {
+      "rol": "user",
+      "texto": "quién eres",
+      "fecha": "2026-09-10T12:47:11"
+    },
+    {
+      "rol": "assistant",
+      "texto": "¡Hola! Me alegra poder ayudarte. ¿En qué puedo ayudarte hoy?",
+      "fecha": "2026-09-10T12:47:13"
+    },
+    {
+      "rol": "user",
+      "texto": "qué es python",
+      "fecha": "2026-09-10T12:47:13"
+    },
+    {
+      "rol": "assistant",
+      "texto": "¡Hola! Estoy Gwen, tu asistente de inteligencia artificial. ¿Hay algo en lo que pueda ayudarte?",
+      "fecha": "2026-09-10T12:47:17"
+    },
+    {
+      "rol": "user",
+      "texto": "qué herramientas tienes",
+      "fecha": "2026-09-10T12:47:17"
+    },
+    {
+      "rol": "assistant",
+      "texto": "¡Hola! Estoy Gwen, tu asistente de inteligencia artificial. Estoy aquí para ayudarte en lo que necesites. ¿Hay algo en lo que pueda ayudarte?",
+      "fecha": "2026-09-10T12:47:22"
+    },
+    {
+      "rol": "user",
+      "texto": "gracias",
+      "fecha": "2026-09-10T12:47:22"
+    },
+    {
+      "rol": "assistant",
+      "texto": "¡Hola! Soy Gwen, tu asistente de inteligencia artificial. Estoy aquí para ayudarte con cualquier pregunta o inquietud que tengas. ¿En qué puedo ayudarte hoy?",
+      "fecha": "2026-09-10T12:47:27"
+    }
+  ],
+  "datos_usuario": {}
+}

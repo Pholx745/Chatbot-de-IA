@@ -1,0 +1,1005 @@
+{
+  "turnos": [
+    {
+      "rol": "usuario",
+      "texto": "sabes quien soy?",
+      "fecha": "2026-09-08T11:47:32"
+    },
+    {
+      "rol": "asistente",
+      "texto": "Soy Nova, un asistente de inteligencia artificial.",
+      "fecha": "2026-09-08T11:47:32"
+    },
+    {
+      "rol": "usuario",
+      "texto": "no, yo no tu",
+      "fecha": "2026-09-08T11:47:40"
+    },
+    {
+      "rol": "asistente",
+      "texto": "Soy Nova, un asistente de inteligencia artificial.",
+      "fecha": "2026-09-08T11:47:40"
+    },
+    {
+      "rol": "usuario",
+      "texto": "yo te programe",
+      "fecha": "2026-09-08T11:47:47"
+    },
+    {
+      "rol": "asistente",
+      "texto": "¡De nada!",
+      "fecha": "2026-09-08T11:47:47"
+    },
+    {
+      "rol": "usuario",
+      "texto": "XD??",
+      "fecha": "2026-09-08T11:47:51"
+    },
+    {
+      "rol": "asistente",
+      "texto": "No estoy seguro de haber entendido. ¿Puedes reformular tu pregunta?",
+      "fecha": "2026-09-08T11:47:51"
+    },
+    {
+      "rol": "usuario",
+      "texto": "usa la calculadora 2+2",
+      "fecha": "2026-09-08T11:49:32"
+    },
+    {
+      "rol": "asistente",
+      "texto": "No estoy seguro de haber entendido. ¿Puedes reformular tu pregunta?",
+      "fecha": "2026-09-08T11:49:32"
+    },
+    {
+      "rol": "usuario",
+      "texto": "que show",
+      "fecha": "2026-09-08T12:21:05"
+    },
+    {
+      "rol": "asistente",
+      "texto": "¡Hola! Soy Nova. ¿En qué puedo ayudarte?",
+      "fecha": "2026-09-08T12:21:05"
+    },
+    {
+      "rol": "usuario",
+      "texto": "que show",
+      "fecha": "2026-09-08T12:21:08"
+    },
+    {
+      "rol": "asistente",
+      "texto": "¡Hola! ¿Cómo estás?",
+      "fecha": "2026-09-08T12:21:08"
+    },
+    {
+      "rol": "usuario",
+      "texto": "que show",
+      "fecha": "2026-09-08T12:21:12"
+    },
+    {
+      "rol": "asistente",
+      "texto": "¡Buenas! ¿Qué hacemos hoy?",
+      "fecha": "2026-09-08T12:21:12"
+    },
+    {
+      "rol": "usuario",
+      "texto": "hola",
+      "fecha": "2026-09-08T12:21:14"
+    },
+    {
+      "rol": "asistente",
+      "texto": "¡Hola! Soy Nova. ¿En qué puedo ayudarte?",
+      "fecha": "2026-09-08T12:21:14"
+    },
+    {
+      "rol": "usuario",
+      "texto": "hola",
+      "fecha": "2026-09-08T12:21:15"
+    },
+    {
+      "rol": "asistente",
+      "texto": "¡Hola! Soy Nova. ¿En qué puedo ayudarte?",
+      "fecha": "2026-09-08T12:21:15"
+    },
+    {
+      "rol": "usuario",
+      "texto": "hola",
+      "fecha": "2026-09-08T12:21:16"
+    },
+    {
+      "rol": "asistente",
+      "texto": "¡Hola! ¿Cómo estás?",
+      "fecha": "2026-09-08T12:21:16"
+    },
+    {
+      "rol": "usuario",
+      "texto": "hola",
+      "fecha": "2026-09-08T12:21:17"
+    },
+    {
+      "rol": "asistente",
+      "texto": "¡Buenas! ¿Qué hacemos hoy?",
+      "fecha": "2026-09-08T12:21:17"
+    },
+    {
+      "rol": "usuario",
+      "texto": "hola",
+      "fecha": "2026-09-08T12:21:18"
+    },
+    {
+      "rol": "asistente",
+      "texto": "¡Hola! Soy Nova. ¿En qué puedo ayudarte?",
+      "fecha": "2026-09-08T12:21:18"
+    },
+    {
+      "rol": "usuario",
+      "texto": "hola",
+      "fecha": "2026-09-08T12:21:19"
+    },
+    {
+      "rol": "asistente",
+      "texto": "¡Hola! Soy Nova. ¿En qué puedo ayudarte?",
+      "fecha": "2026-09-08T12:21:19"
+    },
+    {
+      "rol": "usuario",
+      "texto": "hola",
+      "fecha": "2026-09-08T12:21:20"
+    },
+    {
+      "rol": "asistente",
+      "texto": "¡Buenas! ¿Qué hacemos hoy?",
+      "fecha": "2026-09-08T12:21:20"
+    },
+    {
+      "rol": "usuario",
+      "texto": "hola",
+      "fecha": "2026-09-08T12:21:20"
+    },
+    {
+      "rol": "asistente",
+      "texto": "¡Hola! Soy Nova. ¿En qué puedo ayudarte?",
+      "fecha": "2026-09-08T12:21:20"
+    },
+    {
+      "rol": "usuario",
+      "texto": "hola",
+      "fecha": "2026-09-08T12:21:21"
+    },
+    {
+      "rol": "asistente",
+      "texto": "¡Buenas! ¿Qué hacemos hoy?",
+      "fecha": "2026-09-08T12:21:21"
+    },
+    {
+      "rol": "usuario",
+      "texto": "Hola",
+      "fecha": "2026-09-09T09:24:25"
+    },
+    {
+      "rol": "asistente",
+      "texto": "¡Hola! Soy Nova. ¿En qué puedo ayudarte?",
+      "fecha": "2026-09-09T09:24:25"
+    },
+    {
+      "rol": "usuario",
+      "texto": "como estas",
+      "fecha": "2026-09-09T09:24:30"
+    },
+    {
+      "rol": "asistente",
+      "texto": "Soy Nova, un asistente de inteligencia artificial.",
+      "fecha": "2026-09-09T09:24:30"
+    },
+    {
+      "rol": "usuario",
+      "texto": "bueno",
+      "fecha": "2026-09-09T09:24:33"
+    },
+    {
+      "rol": "asistente",
+      "texto": "No estoy seguro de haber entendido. ¿Puedes reformular tu pregunta?",
+      "fecha": "2026-09-09T09:24:33"
+    },
+    {
+      "rol": "usuario",
+      "texto": ":V",
+      "fecha": "2026-09-09T09:24:35"
+    },
+    {
+      "rol": "asistente",
+      "texto": "No estoy seguro de haber entendido. ¿Puedes reformular tu pregunta?",
+      "fecha": "2026-09-09T09:24:35"
+    },
+    {
+      "rol": "usuario",
+      "texto": ":V",
+      "fecha": "2026-09-09T09:24:36"
+    },
+    {
+      "rol": "asistente",
+      "texto": "No estoy seguro de haber entendido. ¿Puedes reformular tu pregunta?",
+      "fecha": "2026-09-09T09:24:36"
+    },
+    {
+      "rol": "usuario",
+      "texto": "que eres?",
+      "fecha": "2026-09-09T09:24:41"
+    },
+    {
+      "rol": "asistente",
+      "texto": "Soy Nova, un asistente de inteligencia artificial.",
+      "fecha": "2026-09-09T09:24:41"
+    },
+    {
+      "rol": "usuario",
+      "texto": "que haces?",
+      "fecha": "2026-09-09T09:24:45"
+    },
+    {
+      "rol": "asistente",
+      "texto": "Soy Nova, un asistente de inteligencia artificial.",
+      "fecha": "2026-09-09T09:24:45"
+    },
+    {
+      "rol": "usuario",
+      "texto": "no pero que haces",
+      "fecha": "2026-09-09T09:24:49"
+    },
+    {
+      "rol": "asistente",
+      "texto": "Soy Nova, un asistente de inteligencia artificial.",
+      "fecha": "2026-09-09T09:24:49"
+    },
+    {
+      "rol": "usuario",
+      "texto": "ajam",
+      "fecha": "2026-09-09T09:24:51"
+    },
+    {
+      "rol": "asistente",
+      "texto": "No estoy seguro de haber entendido. ¿Puedes reformular tu pregunta?",
+      "fecha": "2026-09-09T09:24:51"
+    },
+    {
+      "rol": "usuario",
+      "texto": "adios",
+      "fecha": "2026-09-09T09:24:56"
+    },
+    {
+      "rol": "asistente",
+      "texto": "Nos vemos pronto.",
+      "fecha": "2026-09-09T09:24:56"
+    },
+    {
+      "rol": "usuario",
+      "texto": "que show",
+      "fecha": "2026-09-09T09:25:00"
+    },
+    {
+      "rol": "asistente",
+      "texto": "¡Hola! Soy Nova. ¿En qué puedo ayudarte?",
+      "fecha": "2026-09-09T09:25:00"
+    },
+    {
+      "rol": "usuario",
+      "texto": "hola",
+      "fecha": "2026-09-09T09:25:51"
+    },
+    {
+      "rol": "asistente",
+      "texto": "¡Hola! Soy Nova. ¿En qué puedo ayudarte?",
+      "fecha": "2026-09-09T09:25:51"
+    },
+    {
+      "rol": "usuario",
+      "texto": "que tal",
+      "fecha": "2026-09-09T09:25:53"
+    },
+    {
+      "rol": "asistente",
+      "texto": "¡Buenas! ¿Qué hacemos hoy?",
+      "fecha": "2026-09-09T09:25:53"
+    },
+    {
+      "rol": "usuario",
+      "texto": "mmm dame ideas",
+      "fecha": "2026-09-09T09:26:01"
+    },
+    {
+      "rol": "asistente",
+      "texto": "No estoy seguro de haber entendido. ¿Puedes reformular tu pregunta?",
+      "fecha": "2026-09-09T09:26:01"
+    },
+    {
+      "rol": "usuario",
+      "texto": "tines calculadora?",
+      "fecha": "2026-09-09T09:26:13"
+    },
+    {
+      "rol": "asistente",
+      "texto": "No estoy seguro de haber entendido. ¿Puedes reformular tu pregunta?",
+      "fecha": "2026-09-09T09:26:13"
+    },
+    {
+      "rol": "usuario",
+      "texto": "tienes claculadora?",
+      "fecha": "2026-09-09T09:26:18"
+    },
+    {
+      "rol": "asistente",
+      "texto": "Tengo disponibles estas herramientas: calculadora, fecha_hora, convertir_temperatura, contar_texto, convertir_moneda_simple",
+      "fecha": "2026-09-09T09:26:18"
+    },
+    {
+      "rol": "usuario",
+      "texto": "como estas",
+      "fecha": "2026-09-09T09:26:25"
+    },
+    {
+      "rol": "asistente",
+      "texto": "Soy Nova, un asistente de inteligencia artificial.",
+      "fecha": "2026-09-09T09:26:25"
+    },
+    {
+      "rol": "usuario",
+      "texto": "que tal",
+      "fecha": "2026-09-09T09:26:28"
+    },
+    {
+      "rol": "asistente",
+      "texto": "¡Hola! Soy Nova. ¿En qué puedo ayudarte?",
+      "fecha": "2026-09-09T09:26:28"
+    },
+    {
+      "rol": "usuario",
+      "texto": "adios",
+      "fecha": "2026-09-09T09:26:32"
+    },
+    {
+      "rol": "asistente",
+      "texto": "¡Cuídate!",
+      "fecha": "2026-09-09T09:26:32"
+    },
+    {
+      "rol": "usuario",
+      "texto": "nos vemos",
+      "fecha": "2026-09-09T09:26:37"
+    },
+    {
+      "rol": "asistente",
+      "texto": "Nos vemos pronto.",
+      "fecha": "2026-09-09T09:26:37"
+    },
+    {
+      "rol": "usuario",
+      "texto": "chau",
+      "fecha": "2026-09-09T09:26:38"
+    },
+    {
+      "rol": "asistente",
+      "texto": "No estoy seguro de haber entendido. ¿Puedes reformular tu pregunta?",
+      "fecha": "2026-09-09T09:26:38"
+    },
+    {
+      "rol": "user",
+      "texto": "hola",
+      "fecha": "2026-09-09T10:10:14"
+    },
+    {
+      "rol": "assistant",
+      "texto": "¡Hola! ¿Cómo estás?",
+      "fecha": "2026-09-09T10:10:14"
+    },
+    {
+      "rol": "user",
+      "texto": "quien eres?",
+      "fecha": "2026-09-09T10:10:17"
+    },
+    {
+      "rol": "assistant",
+      "texto": "Soy Nova, un asistente de inteligencia artificial.",
+      "fecha": "2026-09-09T10:10:17"
+    },
+    {
+      "rol": "user",
+      "texto": "como estas",
+      "fecha": "2026-09-09T10:10:30"
+    },
+    {
+      "rol": "assistant",
+      "texto": "Soy Nova, un asistente de inteligencia artificial.",
+      "fecha": "2026-09-09T10:10:30"
+    },
+    {
+      "rol": "user",
+      "texto": "adios",
+      "fecha": "2026-09-09T10:12:11"
+    },
+    {
+      "rol": "assistant",
+      "texto": "Nos vemos pronto.",
+      "fecha": "2026-09-09T10:12:11"
+    },
+    {
+      "rol": "user",
+      "texto": "hola",
+      "fecha": "2026-09-09T10:26:28"
+    },
+    {
+      "rol": "assistant",
+      "texto": "¡Hola! Soy Gwen. ¿En qué puedo ayudarte?",
+      "fecha": "2026-09-09T10:26:28"
+    },
+    {
+      "rol": "user",
+      "texto": "quien eres?",
+      "fecha": "2026-09-09T10:26:40"
+    },
+    {
+      "rol": "assistant",
+      "texto": "Soy Gwen, un asistente de inteligencia artificial.",
+      "fecha": "2026-09-09T10:26:40"
+    },
+    {
+      "rol": "user",
+      "texto": "que es python",
+      "fecha": "2026-09-09T10:26:46"
+    },
+    {
+      "rol": "assistant",
+      "texto": "Soy Gwen, un asistente de inteligencia artificial.",
+      "fecha": "2026-09-09T10:26:46"
+    },
+    {
+      "rol": "user",
+      "texto": "hola",
+      "fecha": "2026-09-09T10:30:46"
+    },
+    {
+      "rol": "assistant",
+      "texto": "¡Hola! ¿Cómo estás?",
+      "fecha": "2026-09-09T10:30:46"
+    },
+    {
+      "rol": "user",
+      "texto": "quien eres?",
+      "fecha": "2026-09-09T10:30:49"
+    },
+    {
+      "rol": "assistant",
+      "texto": "Soy Gwen, un asistente de inteligencia artificial.",
+      "fecha": "2026-09-09T10:30:49"
+    },
+    {
+      "rol": "user",
+      "texto": "que herramientas tienes",
+      "fecha": "2026-09-09T10:31:03"
+    },
+    {
+      "rol": "assistant",
+      "texto": "Tengo disponibles estas herramientas: calculadora, fecha_hora, convertir_temperatura, contar_texto, convertir_moneda_simple",
+      "fecha": "2026-09-09T10:31:03"
+    },
+    {
+      "rol": "user",
+      "texto": "ok gracias",
+      "fecha": "2026-09-09T10:31:06"
+    },
+    {
+      "rol": "assistant",
+      "texto": "Con gusto.",
+      "fecha": "2026-09-09T10:31:06"
+    },
+    {
+      "rol": "user",
+      "texto": "que haces?",
+      "fecha": "2026-09-09T10:31:12"
+    },
+    {
+      "rol": "assistant",
+      "texto": "Soy Gwen, un asistente de inteligencia artificial.",
+      "fecha": "2026-09-09T10:31:12"
+    },
+    {
+      "rol": "user",
+      "texto": "que es python",
+      "fecha": "2026-09-09T10:31:17"
+    },
+    {
+      "rol": "assistant",
+      "texto": "Soy Gwen, un asistente de inteligencia artificial.",
+      "fecha": "2026-09-09T10:31:17"
+    },
+    {
+      "rol": "user",
+      "texto": "que es python",
+      "fecha": "2026-09-09T10:31:28"
+    },
+    {
+      "rol": "assistant",
+      "texto": "Soy Gwen, un asistente de inteligencia artificial.",
+      "fecha": "2026-09-09T10:31:28"
+    },
+    {
+      "rol": "user",
+      "texto": "hola",
+      "fecha": "2026-09-09T10:31:31"
+    },
+    {
+      "rol": "assistant",
+      "texto": "¡Hola! Soy Gwen. ¿En qué puedo ayudarte?",
+      "fecha": "2026-09-09T10:31:31"
+    },
+    {
+      "rol": "user",
+      "texto": "que es python",
+      "fecha": "2026-09-09T10:31:35"
+    },
+    {
+      "rol": "assistant",
+      "texto": "Soy Gwen, un asistente de inteligencia artificial.",
+      "fecha": "2026-09-09T10:31:35"
+    },
+    {
+      "rol": "user",
+      "texto": "qué es python",
+      "fecha": "2026-09-09T10:31:41"
+    },
+    {
+      "rol": "assistant",
+      "texto": "Soy Gwen, un asistente de inteligencia artificial.",
+      "fecha": "2026-09-09T10:31:41"
+    },
+    {
+      "rol": "user",
+      "texto": "hola",
+      "fecha": "2026-09-09T10:39:17"
+    },
+    {
+      "rol": "assistant",
+      "texto": "¡Hola! ¿Cómo estás?",
+      "fecha": "2026-09-09T10:39:17"
+    },
+    {
+      "rol": "user",
+      "texto": "que horas es?",
+      "fecha": "2026-09-09T10:39:21"
+    },
+    {
+      "rol": "assistant",
+      "texto": "Soy Gwen, un asistente de inteligencia artificial.",
+      "fecha": "2026-09-09T10:39:21"
+    },
+    {
+      "rol": "user",
+      "texto": "fecha",
+      "fecha": "2026-09-09T10:39:30"
+    },
+    {
+      "rol": "assistant",
+      "texto": "No estoy seguro de haber entendido. ¿Puedes reformular tu pregunta?",
+      "fecha": "2026-09-09T10:39:30"
+    },
+    {
+      "rol": "user",
+      "texto": "holaa",
+      "fecha": "2026-09-09T10:42:40"
+    },
+    {
+      "rol": "assistant",
+      "texto": "No estoy seguro de haber entendido. ¿Puedes reformular tu pregunta?",
+      "fecha": "2026-09-09T10:42:40"
+    },
+    {
+      "rol": "user",
+      "texto": "hola",
+      "fecha": "2026-09-09T10:42:42"
+    },
+    {
+      "rol": "assistant",
+      "texto": "¡Hola! ¿Cómo estás?",
+      "fecha": "2026-09-09T10:42:42"
+    },
+    {
+      "rol": "user",
+      "texto": ":V",
+      "fecha": "2026-09-09T10:42:43"
+    },
+    {
+      "rol": "assistant",
+      "texto": "No estoy seguro de haber entendido. ¿Puedes reformular tu pregunta?",
+      "fecha": "2026-09-09T10:42:43"
+    },
+    {
+      "rol": "user",
+      "texto": "hola",
+      "fecha": "2026-09-09T15:43:36"
+    },
+    {
+      "rol": "assistant",
+      "texto": "¡Buenas! ¿Qué hacemos hoy?",
+      "fecha": "2026-09-09T15:43:36"
+    },
+    {
+      "rol": "user",
+      "texto": "como estas",
+      "fecha": "2026-09-09T15:43:41"
+    },
+    {
+      "rol": "assistant",
+      "texto": "Soy Gwen, un asistente de inteligencia artificial.",
+      "fecha": "2026-09-09T15:43:41"
+    },
+    {
+      "rol": "user",
+      "texto": "que res",
+      "fecha": "2026-09-09T15:43:44"
+    },
+    {
+      "rol": "assistant",
+      "texto": "Soy Gwen, un asistente de inteligencia artificial.",
+      "fecha": "2026-09-09T15:43:44"
+    },
+    {
+      "rol": "user",
+      "texto": "que es python",
+      "fecha": "2026-09-09T15:43:50"
+    },
+    {
+      "rol": "assistant",
+      "texto": "Soy Gwen, un asistente de inteligencia artificial.",
+      "fecha": "2026-09-09T15:43:50"
+    },
+    {
+      "rol": "user",
+      "texto": "como",
+      "fecha": "2026-09-09T15:43:52"
+    },
+    {
+      "rol": "assistant",
+      "texto": "Soy Gwen, un asistente de inteligencia artificial.",
+      "fecha": "2026-09-09T15:43:52"
+    },
+    {
+      "rol": "user",
+      "texto": "?",
+      "fecha": "2026-09-09T15:43:53"
+    },
+    {
+      "rol": "assistant",
+      "texto": "No estoy seguro de haber entendido. ¿Puedes reformular tu pregunta?",
+      "fecha": "2026-09-09T15:43:53"
+    },
+    {
+      "rol": "user",
+      "texto": "nidndd+",
+      "fecha": "2026-09-09T15:43:56"
+    },
+    {
+      "rol": "assistant",
+      "texto": "No estoy seguro de haber entendido. ¿Puedes reformular tu pregunta?",
+      "fecha": "2026-09-09T15:43:56"
+    },
+    {
+      "rol": "user",
+      "texto": "nigga",
+      "fecha": "2026-09-09T15:43:59"
+    },
+    {
+      "rol": "assistant",
+      "texto": "No estoy seguro de haber entendido. ¿Puedes reformular tu pregunta?",
+      "fecha": "2026-09-09T15:43:59"
+    },
+    {
+      "rol": "user",
+      "texto": ":V",
+      "fecha": "2026-09-09T15:44:00"
+    },
+    {
+      "rol": "assistant",
+      "texto": "No estoy seguro de haber entendido. ¿Puedes reformular tu pregunta?",
+      "fecha": "2026-09-09T15:44:00"
+    },
+    {
+      "rol": "user",
+      "texto": ":V",
+      "fecha": "2026-09-09T15:44:01"
+    },
+    {
+      "rol": "assistant",
+      "texto": "No estoy seguro de haber entendido. ¿Puedes reformular tu pregunta?",
+      "fecha": "2026-09-09T15:44:01"
+    },
+    {
+      "rol": "user",
+      "texto": "vvv",
+      "fecha": "2026-09-09T15:44:02"
+    },
+    {
+      "rol": "assistant",
+      "texto": "No estoy seguro de haber entendido. ¿Puedes reformular tu pregunta?",
+      "fecha": "2026-09-09T15:44:02"
+    },
+    {
+      "rol": "user",
+      "texto": "tienes que entrenar oe",
+      "fecha": "2026-09-09T15:44:06"
+    },
+    {
+      "rol": "assistant",
+      "texto": "Tengo disponibles estas herramientas: calculadora, fecha_hora, convertir_temperatura, contar_texto, convertir_moneda_simple",
+      "fecha": "2026-09-09T15:44:06"
+    },
+    {
+      "rol": "user",
+      "texto": "dale entrena",
+      "fecha": "2026-09-09T15:44:16"
+    },
+    {
+      "rol": "assistant",
+      "texto": "No estoy seguro de haber entendido. ¿Puedes reformular tu pregunta?",
+      "fecha": "2026-09-09T15:44:16"
+    },
+    {
+      "rol": "user",
+      "texto": "adios",
+      "fecha": "2026-09-09T15:44:21"
+    },
+    {
+      "rol": "assistant",
+      "texto": "Nos vemos pronto.",
+      "fecha": "2026-09-09T15:44:21"
+    },
+    {
+      "rol": "user",
+      "texto": "sali",
+      "fecha": "2026-09-09T15:44:23"
+    },
+    {
+      "rol": "assistant",
+      "texto": "No estoy seguro de haber entendido. ¿Puedes reformular tu pregunta?",
+      "fecha": "2026-09-09T15:44:23"
+    },
+    {
+      "rol": "user",
+      "texto": "hola",
+      "fecha": "2026-09-09T22:29:08"
+    },
+    {
+      "rol": "assistant",
+      "texto": "¡Hola! Soy Gwen. ¿En qué puedo ayudarte?",
+      "fecha": "2026-09-09T22:29:08"
+    },
+    {
+      "rol": "user",
+      "texto": "que eres",
+      "fecha": "2026-09-09T22:29:27"
+    },
+    {
+      "rol": "assistant",
+      "texto": "Soy Gwen, un asistente de inteligencia artificial.",
+      "fecha": "2026-09-09T22:29:27"
+    },
+    {
+      "rol": "user",
+      "texto": "nais",
+      "fecha": "2026-09-09T22:29:35"
+    },
+    {
+      "rol": "assistant",
+      "texto": "No estoy seguro de haber entendido. ¿Puedes reformular tu pregunta?",
+      "fecha": "2026-09-09T22:29:35"
+    },
+    {
+      "rol": "user",
+      "texto": "Hola",
+      "fecha": "2026-09-10T12:00:25"
+    },
+    {
+      "rol": "assistant",
+      "texto": "¡Hola! Soy Gwen. ¿En qué puedo ayudarte?",
+      "fecha": "2026-09-10T12:00:25"
+    },
+    {
+      "rol": "user",
+      "texto": "0",
+      "fecha": "2026-09-10T12:00:32"
+    },
+    {
+      "rol": "assistant",
+      "texto": "No estoy seguro de haber entendido. ¿Puedes reformular tu pregunta?",
+      "fecha": "2026-09-10T12:00:32"
+    },
+    {
+      "rol": "user",
+      "texto": "hola",
+      "fecha": "2026-09-10T12:00:51"
+    },
+    {
+      "rol": "assistant",
+      "texto": "¡Hola! Soy Gwen. ¿En qué puedo ayudarte?",
+      "fecha": "2026-09-10T12:00:51"
+    },
+    {
+      "rol": "user",
+      "texto": "que eres?",
+      "fecha": "2026-09-10T12:00:55"
+    },
+    {
+      "rol": "assistant",
+      "texto": "Soy Gwen, un asistente de inteligencia artificial.",
+      "fecha": "2026-09-10T12:00:55"
+    },
+    {
+      "rol": "user",
+      "texto": "que herramientas tienes",
+      "fecha": "2026-09-10T12:01:03"
+    },
+    {
+      "rol": "assistant",
+      "texto": "Tengo disponibles estas herramientas: calculadora, fecha_hora, convertir_temperatura, contar_texto, convertir_moneda_simple",
+      "fecha": "2026-09-10T12:01:03"
+    },
+    {
+      "rol": "user",
+      "texto": "gracias",
+      "fecha": "2026-09-10T12:01:12"
+    },
+    {
+      "rol": "assistant",
+      "texto": "Con gusto.",
+      "fecha": "2026-09-10T12:01:12"
+    },
+    {
+      "rol": "user",
+      "texto": "explicame que es un libro",
+      "fecha": "2026-09-10T12:01:50"
+    },
+    {
+      "rol": "assistant",
+      "texto": "Soy Gwen, un asistente de inteligencia artificial.",
+      "fecha": "2026-09-10T12:01:50"
+    },
+    {
+      "rol": "user",
+      "texto": "no explicame que es un libro",
+      "fecha": "2026-09-10T12:01:59"
+    },
+    {
+      "rol": "assistant",
+      "texto": "Soy Gwen, un asistente de inteligencia artificial.",
+      "fecha": "2026-09-10T12:01:59"
+    },
+    {
+      "rol": "user",
+      "texto": "que dia es hoy",
+      "fecha": "2026-09-10T12:02:04"
+    },
+    {
+      "rol": "assistant",
+      "texto": "Soy Gwen, un asistente de inteligencia artificial.",
+      "fecha": "2026-09-10T12:02:04"
+    },
+    {
+      "rol": "user",
+      "texto": "puedes decirme la hora?",
+      "fecha": "2026-09-10T12:02:12"
+    },
+    {
+      "rol": "assistant",
+      "texto": "Tengo disponibles estas herramientas: calculadora, fecha_hora, convertir_temperatura, contar_texto, convertir_moneda_simple",
+      "fecha": "2026-09-10T12:02:12"
+    },
+    {
+      "rol": "user",
+      "texto": "fecha_hora",
+      "fecha": "2026-09-10T12:02:22"
+    },
+    {
+      "rol": "assistant",
+      "texto": "No estoy seguro de haber entendido. ¿Puedes reformular tu pregunta?",
+      "fecha": "2026-09-10T12:02:22"
+    },
+    {
+      "rol": "user",
+      "texto": "adios",
+      "fecha": "2026-09-10T12:03:30"
+    },
+    {
+      "rol": "assistant",
+      "texto": "Nos vemos pronto.",
+      "fecha": "2026-09-10T12:03:30"
+    },
+    {
+      "rol": "user",
+      "texto": "hola",
+      "fecha": "2026-09-10T12:16:28"
+    },
+    {
+      "rol": "assistant",
+      "texto": "assistant\n\nMe llamo Gwen. Estoy aquí para ayudarte con cualquier pregunta o inquietud que tengas. ¿En qué puedo ayudarte hoy?",
+      "fecha": "2026-09-10T12:16:32"
+    },
+    {
+      "rol": "user",
+      "texto": "asi que te llamas gwen",
+      "fecha": "2026-09-10T12:16:44"
+    },
+    {
+      "rol": "assistant",
+      "texto": "assistant\n\n¡Hola! Me alegra comenzar esta conversación contigo. Como Gwen, mi objetivo es ayudarte de la mejor manera posible.\n\nAntes de empezar, ¿podrías decirme por qué estás aquí? ¿Tienes alguna pregunta o problema que te gustaría resolver? Estoy aquí para ayudarte y responder a tus preguntas de manera natural y comprensible.\n\n¿Estás buscando algo en particular? ¿O simplemente quieres charlar un rato? Estoy aquí para escucharte y responder a tus preguntas.",
+      "fecha": "2026-09-10T12:16:56"
+    },
+    {
+      "rol": "user",
+      "texto": "quiero charlar un rato",
+      "fecha": "2026-09-10T12:17:08"
+    },
+    {
+      "rol": "assistant",
+      "texto": "assistant\n\n¡Hola! Me llamo Gwen, y estoy aquí para ayudarte con cualquier pregunta o tema que te guste. ¿En qué puedo ayudarte hoy?",
+      "fecha": "2026-09-10T12:17:12"
+    },
+    {
+      "rol": "user",
+      "texto": "podrias decirme que es python?",
+      "fecha": "2026-09-10T12:17:28"
+    },
+    {
+      "rol": "assistant",
+      "texto": "assistant\n\n¡Hola! Me alegra poder interactuar contigo. Como Gwen, mi objetivo es mantener conversaciones naturales y coherentes.\n\n¿En qué puedo ayudarte hoy? ¿Tienes alguna pregunta o necesitas ayuda con algo en particular? Estoy aquí para ayudarte y responder de manera natural y comprensible.",
+      "fecha": "2026-09-10T12:17:37"
+    },
+    {
+      "rol": "user",
+      "texto": "que hora es?",
+      "fecha": "2026-09-10T12:17:49"
+    },
+    {
+      "rol": "assistant",
+      "texto": "assistant\n\n¡Hola! Me alegra estar aquí contigo. Como Gwen, mi objetivo es ofrecerte una conversación amistosa y divertida, manteniendo siempre el contexto de nuestra conversación.\n\n¿En qué puedo ayudarte hoy? ¿Tienes alguna pregunta o necesitas aliento para hablar sobre un tema en particular? Estoy aquí para escucharte y responder en lo que pueda.",
+      "fecha": "2026-09-10T12:18:00"
+    },
+    {
+      "rol": "user",
+      "texto": "bueno nos vemos, gwen",
+      "fecha": "2026-09-10T12:20:44"
+    },
+    {
+      "rol": "assistant",
+      "texto": "assistant\n\n¡Hola! Me alegra poder interactuar contigo hoy. Mi nombre es Gwen, y estoy aquí para ayudarte con cualquier pregunta o tema que tengas en mente. ¿En qué puedo ayudarte hoy?",
+      "fecha": "2026-09-10T12:21:13"
+    },
+    {
+      "rol": "user",
+      "texto": "adios",
+      "fecha": "2026-09-10T12:21:24"
+    },
+    {
+      "rol": "assistant",
+      "texto": "assistant\n\n¡Hola! Soy Gwen, tu conversacional inteligencia artificial. Estoy aquí para ayudarte con cualquier pregunta o tema que desees discutir. ¿En qué puedo ayudarte hoy?",
+      "fecha": "2026-09-10T12:21:30"
+    },
+    {
+      "rol": "user",
+      "texto": "hola",
+      "fecha": "2026-09-10T12:49:51"
+    },
+    {
+      "rol": "assistant",
+      "texto": "Claro, aquí tienes mis respuestas:\n\n*   Puedo ayudarte con tu pregunta, ¿podrías proporcionar más detalles?",
+      "fecha": "2026-09-10T12:50:16"
+    },
+    {
+      "rol": "user",
+      "texto": "que es python",
+      "fecha": "2026-09-10T12:50:31"
+    },
+    {
+      "rol": "assistant",
+      "texto": "¡Hola! Estoy aquí para ayudarte. ¿Hay algo en lo que pueda ayudarte hoy?",
+      "fecha": "2026-09-10T12:50:56"
+    }
+  ],
+  "datos_usuario": {}
+}
