@@ -2,9 +2,11 @@
   <img src="./ASSETS/ARRIBA.gif" width="100%">
 </p>
 <br>
-# Recursos y herramientas — Proyecto Gwen
+<img align="right" width="250" src="./ASSETS/GWEN.jpeg" alt="Gwen">
 
-Este archivo reúne todo lo usado por el equipo: cursos, herramientas y asistentes de IA. Pensado para vivir en la raíz del repositorio de GitHub.
+# 🕸️🌸 PROYECTO GWEN: EN DESARROLLO 🎸🕷️
+
+> *Este archivo reúne todo lo usado por el equipo: cursos, herramientas y asistentes de IA. Pensado para vivir en la raíz del repositorio.*
 
 ## Aprender Python
 
