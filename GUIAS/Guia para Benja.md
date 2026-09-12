@@ -1,3 +1,4 @@
+<img align="right" width="250" src="../ASSETS/benja1.jfif" alt="Guía de Benja">
 # Guía individual — Diseño conversacional y contenido a cargo de Benjamin o(￣┰￣*)ゞ
 
 ## Tu rol en una frase

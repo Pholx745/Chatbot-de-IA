@@ -1,3 +1,4 @@
+<img align="left" width="250" src="../ASSETS/frieren1.jfif" alt="Guía de Manolo - Frieren">
 # Guía individual — Manuel wn :v
 
 ## Tu rol en una frase

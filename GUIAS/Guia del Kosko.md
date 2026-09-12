@@ -1,3 +1,4 @@
+<img align="right" width="250" src="../ASSETS/teto1.jfif" alt="Kasane Teto - Guía del Kosko">
 # Guía individual — Joaquín (Ensamblador / líder técnico)
 
 ## Tu rol en una frase
