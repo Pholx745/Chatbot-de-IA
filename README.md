@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./ASSETS/ARRIBA.gif" width="100%">
+</p>
+<br>
 # Recursos y herramientas — Proyecto Gwen
 
 Este archivo reúne todo lo usado por el equipo: cursos, herramientas y asistentes de IA. Pensado para vivir en la raíz del repositorio de GitHub.
@@ -36,7 +40,11 @@ Este archivo reúne todo lo usado por el equipo: cursos, herramientas y asistent
 - [Building a WhatsApp Chatbot with Twilio and Python (YouTube, 2026)](https://www.youtube.com/watch?v=dsJgse8gc2o)
 
 ---
-
+<br>
+<p align="center">
+  <img src="./ASSETS/MEDIO.gif" width="100%">
+</p>
+<br>
 ## Asistentes de IA que pueden usar (y para qué sirve cada uno)
 
 | IA | Enlace | Mejor para |
@@ -49,3 +57,7 @@ Este archivo reúne todo lo usado por el equipo: cursos, herramientas y asistent
 | **Perplexity** | [perplexity.ai](https://www.perplexity.ai) | Buscar información actualizada con fuentes citadas (útil para investigar APIs, precios, documentación dispersa). |
 
 **Regla del equipo:** ninguna IA reemplaza entender el código — se usan para explicar, revisar y acelerar, no para copiar-pegar sin leer.
+<br><br>
+<p align="center">
+  <img src="./ASSETS/ABAJO.gif" width="100%">
+</p>
