@@ -1546,6 +1546,10 @@ Tu nombre es {self.nombre}.
                 "buenas tardes",
                 "buenas noches",
                 "que show",
+                "que pasa cusa gaa",
+                "jarvis jarvis",
+                "e w",
+                
             ],
             [
                 f"¡Hola! Soy {self.nombre}. ¿En qué puedo ayudarte?",
