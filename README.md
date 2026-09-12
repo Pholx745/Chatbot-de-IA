@@ -2,7 +2,7 @@
   <img src="./ASSETS/ARRIBA.gif" width="100%">
 </p>
 <br>
-<img align="right" width="250" src="./ASSETS/Gwen.jpeg" alt="Gwen">
+<img align="right" width="250" src="./ASSETS/Gwen.jpg" alt="Gwen">
 
 # 🕸️🌸 PROYECTO GWEN: EN DESARROLLO 🎸🕷️
 
