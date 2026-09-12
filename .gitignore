@@ -1,0 +1,23 @@
+# Entornos virtuales y caché de Python (¡Importantísimo!)
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Archivos de entorno y secretos (NUNCA SUBIR API KEYS)
+.env
+
+# Archivos generados por el sistema y el editor
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Archivos compilados (Los que mencionaste en tu guía)
+main.build/
+main.dist/
+*.exe
+
+# Datos locales del chatbot (Para no filtrar conversaciones)
+memoria_*.json
+*.sqlite3
+*.db
