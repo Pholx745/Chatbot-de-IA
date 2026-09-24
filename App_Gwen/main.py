@@ -42,7 +42,7 @@ Requisitos: Python 3.8+ y NumPy (pip install numpy).
 El conector LLM opcional necesita además 'requests' (pip install requests),
 solo si decides enchufar un modelo de lenguaje externo por API.
 
-Autor: generado con Claude a partir de los requisitos del usuario.
+Autor: generado por Rodricks y kosko a partir de Jarvis.
 ================================================================================
 """
 
