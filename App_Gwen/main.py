@@ -1251,7 +1251,7 @@ def crear_motor_ollama(modelo="llama3.2:1b"):
         def _llamar():
             try:
                 resultado["respuesta"] = ollama.chat(model=modelo, messages=mensajes)
-            except Exception as error
+            except Exception as error:
                 resultado["error"] = error
 
         hilo = threading.Thread(target=_llamar, daemon=True)
