@@ -1259,7 +1259,7 @@ def crear_motor_ollama(modelo="llama3.2:1b"):
         hilo.join(timeout=30)
 
         if hilo.is_alive():
-            return ("⏳ Ollama está tardando más de lo normal (puede estar cargando "
+            return ("Ollama está tardando más de lo normal (puede estar cargando "
                     "el modelo en memoria). Intenta de nuevo en unos segundos.")
 
         if "error" in resultado:
