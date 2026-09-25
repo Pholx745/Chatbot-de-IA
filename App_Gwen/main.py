@@ -1244,9 +1244,32 @@ def crear_motor_ollama(modelo="llama3.2:1b"):
         if ollama is None:
             raise ImportError("La librería 'ollama' no está instalada o no se importó correctamente.")
 
-        respuesta = ollama.chat(model=modelo, messages=mensajes)
-        contenido = respuesta['message']['content']
+        #--- ARREGLO: timeout para evitar que el programa se quede
+        #    congelado indefinidamente si Ollama tarda o no responde ---
+        resultado= {}
+
+        def _llamar():
+            try:
+                resultado["respuesta"] = ollama.chat(model=modelo, messages=mensajes)
+            except Exception as error
+                resultado["error"] = error
+
+        hilo = threading.Thread(target=_llamar, daemon=True)
+        hilo.start()
+        hilo.join(timeout=30)
+
+        if hilo.is_alive():
+            return ("⏳ Ollama está tardando más de lo normal (puede estar cargando "
+                    "el modelo en memoria). Intenta de nuevo en unos segundos.")
+
+        if "error" in resultado:
+            raise resultado["error"]
+
+        respuesta = resultado["respuesta"]
+        # --- hasta aqui ---        
         
+        contenido = respuesta['message']['content']
+
         # Limpiar posibles prefijos no deseados que devuelva la API
         if contenido.startswith("assistant\n"):
             contenido = contenido.replace("assistant\n", "", 1)
