@@ -1244,8 +1244,8 @@ def crear_motor_ollama(modelo="llama3.2:1b"):
         if ollama is None:
             raise ImportError("La librería 'ollama' no está instalada o no se importó correctamente.")
 
-        #--- ARREGLO: timeout para evitar que el programa se quede
-        #    congelado indefinidamente si Ollama tarda o no responde ---
+        #--- ARREGLO: Para evitare Gwen se quede
+        #    congelada indefinidamente si Ollama tarda o no responde ---
         resultado= {}
 
         def _llamar():
