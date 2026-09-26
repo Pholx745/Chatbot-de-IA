@@ -1009,9 +1009,10 @@ class Chatbot:
     cortas ("quién eres") y quitarlas podría dejar la frase vacía.
     """
 
-    def __init__(self, nombre="Asistente"):
+    def __init__(self, nombre="Asistente", motor_llm=None):
         self.nombre = nombre
         self.intenciones = []
+        self.motor_llm = motor_llm
         self.vectorizador = TFIDF(quitar_vacias=False)
         self.matriz_patrones = None
         self.etiquetas_patrones = []
@@ -1239,7 +1240,7 @@ def convertir_moneda_simple(monto, tasa_cambio):
 # ------------------------------------------------------------------ #
 # 5d. Conector Local a Ollama (Llama 3.2)
 # ------------------------------------------------------------------ #
-def crear_motor_ollama(modelo="llama3.2:1b"):
+def crear_motor_ollama(modelo="llama3.2:1b", timeout_segundos=90):
     def motor(mensajes):
         if ollama is None:
             raise ImportError("La librería 'ollama' no está instalada o no se importó correctamente.")
@@ -1250,16 +1251,21 @@ def crear_motor_ollama(modelo="llama3.2:1b"):
 
         def _llamar():
             try:
-                resultado["respuesta"] = ollama.chat(model=modelo, messages=mensajes)
+                resultado["respuesta"] = ollama.chat(
+                    model=modelo,
+                    messages=mensajes,
+                    options={"temperature": 0.3},
+                    keep_alive="30m",
+                )            
             except Exception as error:
                 resultado["error"] = error
 
         hilo = threading.Thread(target=_llamar, daemon=True)
         hilo.start()
-        hilo.join(timeout=30)
+        hilo.join(timeout=timeout_segundos)
 
         if hilo.is_alive():
-            return ("Ollama está tardando más de lo normal (puede estar cargando "
+            return  ("Ollama está tardando más de lo normal (puede estar cargando "
                     "el modelo en memoria). Intenta de nuevo en unos segundos.")
 
         if "error" in resultado:
@@ -1688,10 +1694,22 @@ Tu nombre es {self.nombre}.
         #compatibles con modelos conversacionales.
         
 
+        # --- ARREGLO: Darle a Gwen la fecha y hora reales(usando la
+        #     herramienta 'fecha_hora' que ya existe en self.herramientas)
+        #     para que no las invente en cada respuesta ----
+        try:
+            texto_fecha = self.usar_herramienta("fecha_hora")
+            info_fecha = (
+                f"informacion real y actural (úsala si te preguntan la fecha, "
+                f"el día y la hora; no la inventes ni uses otra): {texto_fecha}"
+            )
+        except Exception:
+            info_fecha = ""
+
         mensajes = [
             {
                 "role": "system",
-                "content": self.system_prompt,
+                "content": (self.system_prompt + "\n\n" + info_fecha).strip(),
             }
         ]
 
@@ -1707,7 +1725,7 @@ Tu nombre es {self.nombre}.
             if not texto:
                 continue
 
-            # Convertimos los nombres internos de NOVA
+            # Convertimos los nombres internos de Gwen
             # a los roles estándar de un LLM.
             if rol == "usuario":
                 role = "user"
@@ -1749,7 +1767,7 @@ Tu nombre es {self.nombre}.
             return "Escribe algo para que pueda responderte."
 
         # 1. Guardar mensaje del usuario en el historial
-        self.memoria.agregar_turno("user", texto_usuario)
+        self.memoria.agregar_turno("usuario", texto_usuario)
 
         # 2. Si hay un motor LLM (IA real) conectado, generar respuesta con IA
         if self.motor_llm is not None:
@@ -1763,7 +1781,7 @@ Tu nombre es {self.nombre}.
             respuesta = self.chatbot.responder(texto_usuario)
 
         # 4. Guardar respuesta en el historial
-        self.memoria.agregar_turno("assistant", respuesta)
+        self.memoria.agregar_turno("asistente", respuesta)
 
         return respuesta
 
